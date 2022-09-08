@@ -1,16 +1,7 @@
-# puzzle_app
+## Puzzle Oyunu
 
-A new Flutter project.
+Flutter üzerinde geliştirilmiştir.</br>
+1'den 15' e kadar olan sayıları sıraya sokarak oyunu tamamlanmaya çalışılmaktadır.</br>
+İstenirse oyun sıfırlanabilir ve yeniden farklı oyun ekrana gelir. Sıfırlandığı anda süre ve hareket sayısıda sıfırlanmaktadır.</br>
+*Ekran görüntüleri aşağıdadır.*</br>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
